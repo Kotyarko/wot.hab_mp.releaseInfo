@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<hmpReleaseInfo.xml>
+
+  <uk>
+    <enabled>true</enabled>
+    <version>1.0</version>
+    <changes>
+Версія #1.0, від 13.11.22:
+ • Оновлено для патча 1.18.1.2.
+    </changes>
+    <forumTheme></forumTheme>
+    <downloadLink>https://bitbucket.org/Kotyarko_O/update.info/downloads/HAB_ModPack_ver.exe</downloadLink>
+    <modsBlackList>
+    </modsBlackList>
+    <xvm>
+      <isReleaseAvailable>False</isReleaseAvailable>
+      <releaseVersionURL>https://dl1.modxvm.com/release/xvm_10.1.2.zip</releaseVersionURL>
+      <nightlyVersionURL>https://nightly.modxvm.com/download/master/xvm_latest.zip</nightlyVersionURL>
+    </xvm>
+  </uk>
+
+  <en>
+    <enabled>true</enabled>
+    <version>1.0</version>
+    <changes>
+Version #1.0, date 13.11.22:
+ • updated: patch 1.18.1.2.
+    </changes>
+    <forumTheme></forumTheme>
+    <downloadLink>https://bitbucket.org/Kotyarko_O/update.info/downloads/HAB_ModPack_0.1.exe</downloadLink>
+    <modsBlackList>
+    </modsBlackList>
+    <xvm>
+      <isReleaseAvailable>False</isReleaseAvailable>
+      <releaseVersionURL>https://dl1.modxvm.com/release/xvm_10.1.2.zip</releaseVersionURL>
+      <nightlyVersionURL>https://nightly.modxvm.com/download/master/xvm_latest.zip</nightlyVersionURL>
+    </xvm>
+  </en>
+
+  <ru>
+    <enabled>true</enabled>
+    <version>1.0</version>
+    <changes>
+Версия #1.0, от 13.11.22:
+ • Сборка обновлена для 1.18.1.2.
+    </changes>
+    <forumTheme></forumTheme>
+    <downloadLink>https://bitbucket.org/Kotyarko_O/update.info/downloads/HAB_ModPack_0.1.exe</downloadLink>
+    <modsBlackList>
+    </modsBlackList>
+    <xvm>
+      <isReleaseAvailable>False</isReleaseAvailable>
+      <releaseVersionURL>https://dl1.modxvm.com/release/xvm_10.1.2.zip</releaseVersionURL>
+      <nightlyVersionURL>https://nightly.modxvm.com/download/master/xvm_latest.zip</nightlyVersionURL>
+    </xvm>
+  </ru>
+
+</hmpReleaseInfo.xml>
