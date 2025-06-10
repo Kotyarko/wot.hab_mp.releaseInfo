@@ -3,7 +3,7 @@
 
   <uk>
     <enabled>true</enabled>
-    <version>5.1</version>
+    <version>5.2</version>
                               
     <changes>
 Версія #1.2.54, від 06.06.2025:
@@ -33,7 +33,7 @@
 
   <en>
     <enabled>true</enabled>
-    <version>5.1</version>
+    <version>5.2</version>
     <changes>
 Version #1.2.54, date 06.06.2025:
  • updated: patch 1.29.0.0.
@@ -59,7 +59,7 @@ Version #1.2.54, date 06.06.2025:
 
   <ru>
     <enabled>true</enabled>
-    <version>5.1</version>
+    <version>5.2</version>
     <changes>
 Версия #1.2.54, от 06.06.2025:
    • Сборка обновлена для 1.29.0.0.
